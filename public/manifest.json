@@ -1,0 +1,22 @@
+{
+  "icons": [
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Budget-Tracker",
+  "short_name": "Budget-Tracker",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Budget Tracker application to allow for offline access and functionality",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
