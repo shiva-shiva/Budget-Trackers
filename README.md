@@ -29,11 +29,13 @@ The Budget-Trackers is an app which allows The user will be able to add expenses
 
     2- Run npm install to install dependencies required for this project.
 
+    3- 
 
 ## 💻usage
 *Instructions and examples for use:*</br> 
 
-    To start the server, run npm start. To access the app after starting the server, go to http://localhost:3000 in your browser.
+    Run node server.js to start the application.
+    To access the app after starting the server, go to http://localhost:3000 in your browser.
     
 ## Features
 
