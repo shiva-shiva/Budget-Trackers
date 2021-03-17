@@ -9,7 +9,7 @@
 
 ## Description 
 
-The Budget-Trackers is an app which allows The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.<h4>Click [here](https://quiet-fjord-49464.herokuapp.com) for deployed application.</h4>
+The Budget-Trackers is an app which allows The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.<h4>Click [here](https://polar-sierra-07545.herokuapp.com/) for deployed application.</h4>
 
 ## ✨Demo
 
