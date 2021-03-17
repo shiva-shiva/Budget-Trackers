@@ -24,6 +24,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 * [Description](#Description)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Heroku Link](#Heroku)
 * [license](#license)
 
 ## Installation
