@@ -17,7 +17,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## ✨Demo
 
-![Demo](./public/images/Fitness.png "title-1")
+![Demo](./public/images/budget.gif "title-1")
 
 
  ## Table of Contents
